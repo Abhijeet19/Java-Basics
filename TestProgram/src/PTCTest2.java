@@ -1,0 +1,16 @@
+/*
+ * 
+ * http://hr.gs/roundtwoavom
+ * http://hr.gs/roundtwoavom
+ */
+public class PTCTest2 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
